@@ -7,4 +7,4 @@ window_width = 1366
 window_hight = 768
 
 ## frames per second (game running speed)
-fps = 30
+fps = 6
